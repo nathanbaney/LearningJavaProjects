@@ -4,7 +4,7 @@ random projects
 
 ## Maven Support
 I added maven support to this repo.  Dependencies can be listed in the pom.xml file.
-* install maven (set env variables and make sure you can do ```mvn -v``)
+* install maven (set env variables and make sure you can do ```mvn -v```)
 * execute ```mvn test```
   * This will compile all code in the src/main/java directory
   * Then run all tests (junit) in the src/test/java directory
