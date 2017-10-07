@@ -1,0 +1,2 @@
+# git should ignore compiled classes, etc
+target/*
